@@ -3,12 +3,24 @@ Pyro Client is a booter that uses ICMP Echo Requests (also called "pings") to fi
 
 This program may set off SmartScreen, that's only because your computer doesn't recognise where this program came from.
 
-There's no real instructions on how to use it, just make sure you extract it after downloading.
-
 # TOS
 ###### 1. Do not redistribute.
 ###### 2. The creator is not liable for any damage for what ever reason that happens to any device during the use of this program.
 ###### 3. This should only be used for the testing of network security, and not if someone made you mad on Call of Duty.
+
+# Instructions
+
+Once you start the program you are greeted with a GUI. There will be three numbers.
+
+Press one of the number keys corresponding with your choice on the menu.
+
+Once you press it you are automatically taken to the menu you chose.
+
+If you are to press one, it will prompt you for an IPv4 IP address. Enter the victim's IP and then press enter.
+
+The program will then proceed to ping the victim many times per second.
+
+**Note: It's more effective if multiple attacks are running at once.**
 
 
 ### Changelog
