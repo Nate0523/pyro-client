@@ -1,6 +1,10 @@
 # pyro-client
 Pyro Client is a booter that uses ICMP Echo Requests (also called "pings") to fill the victim's bandwidth with large amounts of packets and stress their network.
 
+This program may set off SmartScreen, that's only because your computer doesn't recognise where this program came from.
+
+There's no real instructions on how to use it, just make sure you extract it after downloading.
+
 # TOS
 ###### 1. Do not redistribute.
 ###### 2. The creator is not liable for any damage for what ever reason that happens to any device during the use of this program.
