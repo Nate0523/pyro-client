@@ -13,5 +13,6 @@ There's no real instructions on how to use it, just make sure you extract it aft
 
 ### Changelog
 Program last updated at 8/28/2020
-###### 0.1.0.6 -- Added an ASCII fire to the "Start Client" page. Also added additional instructions to the Start Client page as well.
-###### 0.1.0.5 -- Cleaned up the GUI and made it look better. I also posted my project to GitHub.
+###### b1.6.1 -- Fixed a bug where if you closed out sometimes it would reappear.
+###### b1.6.0 -- Added an ASCII fire to the "Start Client" page. Also added additional instructions to the Start Client page as well.
+###### b1.5.0 -- Cleaned up the GUI and made it look better. I also posted my project to GitHub.
