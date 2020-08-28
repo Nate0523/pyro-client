@@ -13,6 +13,7 @@ There's no real instructions on how to use it, just make sure you extract it aft
 
 ### Changelog
 Program last updated at 8/28/2020
-###### b1.6.1 -- Fixed a bug where if you closed out sometimes it would reappear.
+###### b1.6.1 -- Fixed a bug where if you closed out of the window sometimes it would reappear.
 ###### b1.6.0 -- Added an ASCII fire to the "Start Client" page. Also added additional instructions to the Start Client page as well.
 ###### b1.5.0 -- Cleaned up the GUI and made it look better. I also posted my project to GitHub.
+###### b1.4.0 -- The latest release I had logged, looks really bad. The first version with an actual GUI when you start it up.
